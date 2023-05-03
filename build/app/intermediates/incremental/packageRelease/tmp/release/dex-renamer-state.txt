@@ -1,0 +1,4 @@
+#Sun Apr 30 19:35:06 EET 2023
+base.0=C\:\\Users\\Dark\\Downloads\\medicare-app-ui-Flutter-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
